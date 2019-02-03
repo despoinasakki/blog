@@ -1,5 +1,5 @@
 speeches:
-  name: speeches
+  name: speeches-name
   description: Some of the greatest words ever spoken.
   cover: assets/images/speeches.jpg
 fiction:
@@ -14,3 +14,11 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+tag-name:
+  name: # slug
+  description: # under name in tag page
+  cover: # e.g assets/images/tag-cover.jpg
+tag-name-2:
+  name:
+  description:
+  cover:
