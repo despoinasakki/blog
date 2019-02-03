@@ -1,24 +1,20 @@
-speeches:
-  name: speeches-name
-  description: Some of the greatest words ever spoken.
+books:
+  name: books
+  description: False
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+art:
+  name: art
   description: False
   cover: False
-fables:
-  name: fables
+fiction:
+  name: fiction
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
 getting-started:
   name: getting-started
   description: False
   cover: False
-tag-name:
-  name: # slug
-  description: # under name in tag page
-  cover: # e.g assets/images/tag-cover.jpg
-tag-name-2:
-  name:
-  description:
-  cover:
+psychology:
+  name: psychology # slug
+  description: False # under name in tag page
+  cover: False # e.g assets/images/tag-cover.jpg
