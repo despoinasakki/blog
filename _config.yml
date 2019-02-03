@@ -7,8 +7,8 @@ language: 'en-uk'
 baseurl: /blog/
 
 # Website info
-title: "Τροφή για Σκέψη"
-description: "Όταν η Τέχνη το Βιβλίο και το Θέατρο χορεύουν με την Ψυχολογία"
+title: "Ξ¤ΟΞΏΟ†Ξ® Ξ³ΞΉΞ± Ξ£ΞΊΞ­ΟΞ·"
+description: "ΞΟ„Ξ±Ξ½ Ξ· Ξ¤Ξ­Ο‡Ξ½Ξ· Ο„ΞΏ Ξ’ΞΉΞ²Ξ»Ξ―ΞΏ ΞΊΞ±ΞΉ Ο„ΞΏ ΞΞ­Ξ±Ο„ΟΞΏ Ο‡ΞΏΟΞµΟΞΏΟ…Ξ½ ΞΌΞµ Ο„Ξ·Ξ½ Ξ¨Ο…Ο‡ΞΏΞ»ΞΏΞ³Ξ―Ξ±"
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
